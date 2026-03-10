@@ -2,3 +2,7 @@
 .virtual_documents/
 
 *.zip
+*.xlsx
+
+**.idea/
+**__pycache__/
